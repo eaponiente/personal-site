@@ -25,7 +25,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/edgar-allan-poniente-242b33a8/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
